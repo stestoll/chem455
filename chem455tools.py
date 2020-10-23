@@ -15,6 +15,7 @@ eps0 = 8.8541878128e-12 # vacuum electric permittivity, C^2/J/m
 u = 1.66053906660e-27   # atomic unit mass, in kg
 me = 9.1093837015e-31   # electron mass, in kg
 mp = 1.67262192369e-27  # proton mass, in kg
+eV = e
 
 
 # Black-body radiation
